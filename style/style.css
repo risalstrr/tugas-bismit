@@ -1,0 +1,6 @@
+@media(max-width: 767px) {
+	.kirim {
+      display: block;
+      width: 100%;
+	}
+}
